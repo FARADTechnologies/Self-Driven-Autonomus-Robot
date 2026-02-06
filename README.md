@@ -1,5 +1,4 @@
 ## Table of Contents
-- [Team](#the-team)
 - [Video of the Robot](#video-of-the-robot)
 - [Photos of Robot](#photos-of-robot)
 - [3D Model of Robot](#3d-model-of-robot)
